@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7bMZfz6skUWTlSzrPhxTxA+0K0Fv6lUQWcCM4ny6BJE=",
+  "Source": "TaskManyToMany",
+  "BasePath": "_content/TaskManyToMany",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
